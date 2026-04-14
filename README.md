@@ -15,7 +15,20 @@ pip install opencv-python numpy
 텍스트 = "GOODDAY" 
 
 ## 예시
-https://github.com/YanggaY/Chessboard_AR_TEXT/issues/1#issue-4262386960
+### Original Video
+
+https://github.com/user-attachments/assets/51b0caee-1200-44ec-9214-41cfa08231e2
+
+
+### result
+
+
+https://github.com/user-attachments/assets/e7623b11-d338-428a-8a05-ab891e49ae5c
+
+
+
+
+
 
 ## 원하는 텍스트 띄우려면
 - 체스보드가 보이는 영상을 촬영합니다
